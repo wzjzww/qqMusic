@@ -1,0 +1,12 @@
+.tap {
+  width: 100%;
+  overflow: hidden;
+  display: block; }
+  .tap > .img {
+    overflow: hidden;
+    display: flex; }
+    .tap > .img > img {
+      width: 100%;
+      height: 440px;
+      flex-basis: 100%;
+      display: block; }

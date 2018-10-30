@@ -1,0 +1,195 @@
+header {
+	width: 100%;
+	height: 150px;
+	background: #31c27c;
+}
+header>img {
+	width: 250px;
+	height: 100px;
+	margin: 25px;
+}
+header>span {
+	padding: 30px;
+    background: #149c5a;
+    border-radius: 50px;
+    float: right;
+    margin: 22px 50px;
+    font-size: 45px;
+    color: #fff;
+}
+main>ul>li{
+	width: 326.5px;
+    height: 100px;
+    
+    text-align: center;
+    line-height: 100px;
+    background: #fff;
+    font-size: 45px;
+}
+main>ul :first-child {
+	border-bottom: solid 5px #31c27c;
+}
+.dote {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 65%;
+    margin-left: 30%;
+}
+.icon-dote {
+	font-size: 60px;
+    display: inline-block;
+    color: rgba(144,144,144,.8);
+}
+.block>ul>li {
+	width: 450px;
+    height: 600px;
+    font-size: 40px;
+    padding: 20px;
+    vertical-align: top;
+    position: relative;
+    background: #fff;
+}
+.block>ul>li>img {
+	width: 450px;
+	height: 450px;
+}
+.icon-bofang {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 77%;
+    margin-left: 77%;
+    font-size: 80px;
+    color: #fff;
+}
+.block>ul>li>p {
+	padding: 50px 15px;
+}
+.radio>h1 {
+	background: #fff;
+    padding: 30px 30px;
+}
+.musicList>h1 {
+	padding: 50px 30px;
+}
+.musicList>p,
+.musicList>a {
+	font-size: 35px;
+	text-align: center;
+	display: inherit;
+}
+.musicList>p {
+	color: rgba(0,0,0,.6);
+}
+.musicList>a {
+	margin: 50px 30px;
+}
+.footer {
+	width: 100%;
+    height: 300px;
+}
+.footer>img {
+	width: 250px;
+    height: 68px;
+    margin: 0 37%;
+}
+.footer>div,
+.footer>p {
+	text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    color: rgba(0,0,0,.6);
+}
+.rank>ul>li {
+	width: 100%;
+}
+.list>img {
+	float: left;
+}
+.list {
+	width: 95%;
+    height: 300px;
+    margin: 0 25px;
+    background: #fff;
+}
+.index {
+	font-size: 35px;
+	margin-left: 340px;
+	margin-top: 20px;
+	padding-top: 30px;
+}
+.index>ul>li {
+	display: -webkit-box;
+    padding-top: 20px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 555px;
+    overflow-x: hidden;
+}
+.index>p {
+	font-size: 45px;
+	white-space: nowrap;
+    overflow: hidden;
+    width: 570px;
+}
+.index>ul>li>span {
+	padding-right: 30px;
+	padding-left: 25px;
+    color: rgba(0,0,0,.5);
+    vertical-align: sub;
+}
+.rank>div {
+	width: 100%;
+    height: 180px;
+    line-height: 180px;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0,0,0,.5);
+}
+.icon-sousuo {
+	display: inline-block;
+	font-size: 60px;
+	vertical-align: middle;
+	padding-left: 30px;
+	color: rgba(0,0,0,.5);
+}
+input {
+	width: 800px;
+    height: 90px;
+    outline: none;
+    font-size: 45px;
+    border: none;
+}
+.box {
+	width: 925px;
+    height: 90px;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.hot>a {
+	font-size: 40px;
+    padding: 25px;
+    border: solid 2px #aaa;
+    margin: 30px;
+    display: inline-block;
+    border-radius: 55px;
+}
+.hot {
+	width: 100%;
+    margin-top: 30px;
+    background: #fff;
+    height: 1357px;
+}
+.hot :first-child {
+	color: #fc4524;
+    border-color: #fc4524;
+}
+.search,
+.rank {
+	display: none;
+}
+.recommend {
+	display: block;
+}

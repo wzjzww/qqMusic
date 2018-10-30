@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 20px/1.5 "hiragino sans gb",arial;
+	background: #f4f4f4;
+}
+ul>li {
+	list-style: none;
+	display: inline-block;
+	padding: 0;
+}
+a {
+	color: #000;
+	text-decoration: none;
+}
+.clearfix {
+	content: '';
+	clear: both;
+	display: inline-block;
+}

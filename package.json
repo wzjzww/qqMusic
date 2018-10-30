@@ -1,0 +1,19 @@
+{
+  "name": "qqmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzjzww/qqMusic.git"
+  },
+  "author": "wzjzww",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzjzww/qqMusic/issues"
+  },
+  "homepage": "https://github.com/wzjzww/qqMusic#readme"
+}
